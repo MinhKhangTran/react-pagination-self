@@ -1,2 +1,3 @@
 # react-pagination-self
-Created with CodeSandbox
+
+[Live Demo](https://csb-z2zu8.netlify.app/)
